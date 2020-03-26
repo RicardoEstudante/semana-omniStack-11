@@ -1,4 +1,4 @@
-# Semana-OmniStack-11.0
+<h1 align="center">Semana-OmniStack-11.0</h1>
 
 `Projeto desenvolvido durante a Semana OmniStack 11.0 da rockeaseat`
 ---
