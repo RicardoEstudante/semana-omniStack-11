@@ -2,6 +2,7 @@
 
 `Projeto desenvolvido durante a Semana OmniStack 11.0 da rockeaseat`
 ---
+<br>
 
 <h2 align="center">Technologies and dependencies</h2>
 
