@@ -3,9 +3,15 @@
 `Projeto desenvolvido durante a Semana OmniStack 11.0 da rockeaseat`
 ---
 
+<h2 align="center">Technologies and dependencies</h2>
+
  - `Front-end` 
     - React.js
-    - React Native (Mobile)
+      - axio (Integration)
+    <br>
+
+-  `Mobile`
+    - React Native
     <br>
 
  - `Back-end`
