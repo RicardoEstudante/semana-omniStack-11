@@ -13,6 +13,7 @@
 
 -  `Mobile`
     - React Native
+        - expo
     <br>
 
  - `Back-end`
