@@ -70,4 +70,9 @@ export default StyleSheet.create({
         alignItems: 'center'
     },
 
+    actionText: {
+        color: '#fff',
+        fontSize: 15,
+        fontWeight: 'bold'
+    }
 });
