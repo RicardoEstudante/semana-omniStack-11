@@ -2,7 +2,7 @@ import React from 'react';
 import { Feather } from '@expo/vector-icons';
 import { useNavigation } from '@react-navigation/native';
 import { View, Image, Text, TouchableOpacity, Linking } from 'react-native';
-import * as MailComponser from 'expo-mail-composer';
+import * as MailComposer from 'expo-mail-composer';
 
 import logoImg from '../../assets/logo.png';
 
@@ -17,7 +17,7 @@ export default function Detail() {
     }
 
     function sendMail() {
-        MailComponser.composeAsync({
+        MailComposer.composeAsync({
             subject: 'Herói do caso: Cadelinha atropelada',
             recipients: ['ricardocarvalho606@gmail.com'],
             body: message,
