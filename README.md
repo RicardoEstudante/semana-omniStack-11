@@ -22,6 +22,8 @@
         - crypt
         - cors
         - knex
+        - jest
+        - celebrate
     <br>
 
  - `Database`
