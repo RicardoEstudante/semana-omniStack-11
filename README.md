@@ -19,6 +19,7 @@
  - `Back-end`
     - Node.js
         - express
+        - cross-env
         - crypt
         - cors
         - knex
@@ -33,4 +34,6 @@
 - `Others`
     - Nodemon
     - Insomnia (API test)
+    - Jest
+    - Supertest
      
